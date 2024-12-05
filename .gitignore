@@ -1,0 +1,7 @@
+hangman_api_user.ipynb
+train.ipynb
+interview.ipynb
+.venv
+*__pycache__
+*.pdf
+*.DS_Store

@@ -1,0 +1,6 @@
+model:
+  vocab_size: 28  # 26 letters + '_' for unknown + '[PAD]' for padding
+  embedding_dim: 100
+  num_heads: 6
+  num_layers: 3
+  max_length: 30
